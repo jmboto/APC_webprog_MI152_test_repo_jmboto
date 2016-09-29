@@ -1,3 +1,7 @@
 "Hello! This is the repository of Joemari"
 "This is a new line"
+<<<<<<< HEAD
 
+=======
+"Another line"
+>>>>>>> 93a244ea870125933fed5b67efe1f3b8f7924c89
