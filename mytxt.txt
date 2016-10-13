@@ -5,3 +5,5 @@
 =======
 "Another line"
 >>>>>>> 93a244ea870125933fed5b67efe1f3b8f7924c89
+
+"COW COW COW"
