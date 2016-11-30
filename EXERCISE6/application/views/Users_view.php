@@ -83,7 +83,7 @@ window.location="<?php echo base_url();?>index.php/users/"+act+"/"+gotoid;
   <tr>
     <td>Joemari Boto</td>
     <td>Monster</td>
-    <td><img src="http://localhost/jm/uploads/download3.jpg" alt="basketball" style="width:150px;height:100px;"></td>
+    <td><img src="http://127.0.0.1/EXERCISE6/uploads/download3.jpg" alt="basketball" style="width:150px;height:100px;"></td>
 	<td><p><a href="http://www.twitter.com" style="color: black;">Twitter</a></p></td>
 <div id="body">
 	<div id="content">

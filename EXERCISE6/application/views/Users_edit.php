@@ -105,7 +105,7 @@ extract($users);
 ?>
 <div id="header">
  <div id="content">
-    <label>Edit Data</label>
+    <label>Edit User</label>
     </div>
 </div>
 <div id="body" style="margin-left: 220px;">
