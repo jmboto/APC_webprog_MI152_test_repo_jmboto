@@ -16,7 +16,7 @@ if(isset($_POST['btn-save']))
  // sql query for inserting data into database
  
  // sql query execution function
- if(mysqli_query($con, $sql_query))
+ if(mysql_query($sql_query))
  {
   ?>
   <script type="text/javascript">
