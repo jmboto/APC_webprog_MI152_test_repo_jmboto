@@ -84,7 +84,7 @@ function delete_id(id)
 </p>
 
 <button type="button" onclick="document.getElementById('demo').style.fontSize='35px'">CLICK!!</button>
-<h1>Eat, Ball, SLeep, REPEAT!!!!</h1>
+<h1>Keep Balling!!!!!</h1>
 
 <table>
   <tr>
