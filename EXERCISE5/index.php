@@ -96,7 +96,7 @@ function delete_id(id)
   <tr>
     <td>Joemari Boto</td>
     <td>Monster</td>
-    <td><img src="download3.jpg" alt="basketball" style="width:150px;height:100px;"></td>
+    <td><img src="doge.gif" alt="doge" style="width:150px;height:100px;"></td>
 	<td><p><a href="http://www.twitter.com" style="color: black;">Twitter</a></p></td>
 <div id="body">
  <div id="content">
